@@ -1,0 +1,14 @@
+{
+  "name": "raycaster",
+  "version": "1.0.0",
+  "description": "tiny js raycaster",
+  "main": "src.js",
+  "scripts": {
+    "test": "browser-sync start --server -w 'src.js' -w 'index.html'"
+  },
+  "author": "sarahkittyy",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
