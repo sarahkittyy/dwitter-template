@@ -11,7 +11,7 @@ const R = (r, g, b, a) => `#${parseInt(r, 10).toString(16).padStart(2, '0')}${pa
 // dwitter submission function
 function u(t)
 {
-	x.fillRect(0,0,100,100* t);
+	
 }
 
 // Timing vars
